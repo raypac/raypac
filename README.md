@@ -5,7 +5,7 @@
 - 🌱 Currently working across the **.NET ecosystem** (.NET Core, MAUI, Azure Integration Services)  
 - 🤝 Open to collaborate on **digital solutions using Microsoft and Google technologies**  
 - 🤖 Exploring **Generative AI & OpenAI** to drive innovation in enterprise automation  
-- 📫 Reach me at **rpacayra@live.com** | [LinkedIn](https://www.linkedin.com/in/rpacayra) | [Portfolio]([https://raylight.me](https://raylight-portfolio.azurewebsites.net/))  
+- 📫 Reach me at **rpacayra@live.com** | [LinkedIn](https://www.linkedin.com/in/rpacayra) | [Portfolio](https://raylight.me](https://raylight-portfolio.azurewebsites.net/))  
 
 
 <!---
